@@ -1,29 +1,6 @@
 # AI-MAS Lab challenge 
 
-Can you help us solve these problems? The AI-MAS Lab is looking for the best solutions!
-
-## Submission Format
-
-You can send your final solutions **until the 26th of October, 23:59** using the following form https://goo.gl/forms/CX407rp5ysISIL9Y2.
-
-We expect your solutions via a Github repo (use the same subfolder structure).
-
-Only `problem_0_researcher` is mandatory.
-
-Each problem (subfolder) has more details under its README section. Check the _Submission Format_ section of each problem to see how your solution will be evaluated and what you should include in the repo you submit.
-
-### Before you get started
-
-To run these scripts, you need at least the following installed:
-
-* Python 3.6
-
-For each problem we recommend additional python libraries, such as:
-* Numpy
-* OpenCV 3 (highly recommend installing using `python -m pip install opencv-python`)
-* PyTorch
-* Scikit-learn
-* Pandas
+This contains the solution for Problem 0 - Researcher. It can be found as a PDF file in the corresponding directory.
 
 ### Context
 
